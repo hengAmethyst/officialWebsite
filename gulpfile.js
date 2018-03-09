@@ -74,3 +74,4 @@ gulp.task('watch', function () {
 //-------------------gulp default----------------------//
 // 默认任务
 gulp.task('default', ['connect','watch'])
+// you
